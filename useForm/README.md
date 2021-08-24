@@ -2,7 +2,8 @@
 
 Ejemplo:
 
-```const initialForm = {
+```
+const initialForm = {
         name: '',
         age: 0,
         email: ''
